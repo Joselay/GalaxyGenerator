@@ -1,5 +1,5 @@
-<img src="https://github.com/Joselay/GalaxyGenerator/assets/98274892/712bb387-d0a3-45d1-91fa-eec2e5025a8f
-" alt="galaxy image"></img>
+
+![1](https://github.com/Joselay/GalaxyGenerator/assets/98274892/6b1bf658-24cc-4a2d-925f-580873fd87fe)
 
 # Three.js Journey
 
