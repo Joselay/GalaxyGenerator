@@ -1,3 +1,6 @@
+<img src="![image](https://github.com/Joselay/GalaxyGenerator/assets/98274892/712bb387-d0a3-45d1-91fa-eec2e5025a8f)
+" alt="galaxy image"></img>
+
 # Three.js Journey
 
 ## Setup
